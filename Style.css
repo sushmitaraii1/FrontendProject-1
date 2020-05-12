@@ -98,7 +98,7 @@
 /*-----------------Services-------------------*/
 #services
 {
-	background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(C:/Users/User/Desktop/Planterium/services.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(images/services.jpg);
 	background-size: cover;
 	background-position: center;
 	color: #efefef !important;
@@ -251,7 +251,7 @@ h1::after  /*--Creating underline----*/
 /*-------Become a member----------*/
 #member
 {
-	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(C:/Users/User/Desktop/Planterium/wood.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/wood.jpg);
 	background-size: cover;
 	background-position: center;
 	color: #fff;
