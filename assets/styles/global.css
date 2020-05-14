@@ -18,6 +18,10 @@
 *, *::before, *::after {
     box-sizing: border-box;
 }
+.nav-bar img{
+    height: 100px;
+    padding-left: 60px;
+}
 
 .content {
     height: 200vh;
