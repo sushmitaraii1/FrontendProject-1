@@ -65,7 +65,7 @@
 
  .slide-container .slides .image-container .slider.slide-1
  {
-     background: url(./image/slider1.jpg);    
+     background: url(../images/sliderPics/slider1.jpg);
      background-size: cover;
      background-position: center;
      
@@ -73,7 +73,7 @@
 
  .slide-container .slides .slider.slide-2
  {
-     background: url(./image/slider2.jpg);    
+     background: url(../images/sliderPics/slider2.jpg);
      background-size: cover;
      background-position: center;
      
@@ -82,7 +82,7 @@
 
  .slide-container .slides .image-container .slider.slide-3
  {
-     background: url(./image/slider3.jpg);    
+     background: url(../images/sliderPics/slider3.jpg);
      background-size: cover;
      background-position: center;
      
@@ -90,7 +90,7 @@
 
  .slide-container .slides .image-container .slider.slide-4
  {
-     background: url(./image/slider4.jpg);    
+     background: url(../images/sliderPics/slider4.jpg);
      background-size: cover;
      background-position: center;
      
